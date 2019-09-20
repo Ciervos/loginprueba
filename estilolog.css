@@ -1,3 +1,13 @@
 
-body 
-{background-color: #76b852;}
+body
+{
+    background-color: #76b852;
+}
+
+#contenedorblanco
+ {
+     background-color: white;
+     width: 360px;
+     padding: 45px;
+     box-shadow: 2px 2px 5px grey;
+ } 
